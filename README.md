@@ -1,5 +1,5 @@
 # kairos-course-zhihu
-知乎专栏《KAIROS：AI 助手的心跳与记忆》(https://www.zhihu.com/column/c_2023460451049063586) 的配套代码
+知乎专栏《KAIROS：AI 助手的心跳与记忆》的配套代码
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -20,7 +20,7 @@
 | 4 | 上下文熵增 - 如何量化 AI 的"记忆力" | `context_entropy_analyzer.py` | ⏳ 待发布 |
 | ... | ... | ... | ... |
 
-👉 [知乎专栏主页](https://www.zhihu.com/column/xxx)（关注获取更新）
+👉 [知乎专栏主页](https://www.zhihu.com/column/c_2023460451049063586)（关注获取更新）
 
 ---
 
